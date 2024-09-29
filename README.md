@@ -2,8 +2,9 @@
 <p align="center"><h4 align="center"><samp> Software Engineer, An Open Source Contributor & A Competitive Programmer </samp></h4></p>
 <img alt="Night Coding" src="./Night-Coding.gif" align="right"/>
 👨‍💻 &nbsp;About Me <br>
-- <samp><b> As an engineer specializing in Software Engineering and Computer Systems Integration. My enthusiasm for adopting new technologies and dedication to continuous learning is complemented by a strong commitment to collaboration and teamwork values. 🚀 </b><br><br>
-- <b> Throughout my academic and professional journey, I have consistently demonstrated proficiency as a problem solver. Moreover, my interests extend to blockchain technology, where I seek to deepen my understanding and contribute to its transformative potential. 🌐💡 </b><br><br>
+- <samp><b> As a Software Engineer, I bring a strong enthusiasm for tackling challenges and a commitment to continuous learning, along with a solid dedication to fostering teamwork and collaboration.
+ </b><br>
+- <b> I believe that technology can play a crucial role in developing our country. That's why I aim to inspire and lead the growth of a strong Moroccan tech community 🌍. In order to do that I plan to create and support initiatives such as tech meetups 💬, and collaborative projects 💡, providing resources and opportunities that foster skills development and knowledge sharing within the community.🚀 </b><br><br>
 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://twitter.com/0x4ns">
